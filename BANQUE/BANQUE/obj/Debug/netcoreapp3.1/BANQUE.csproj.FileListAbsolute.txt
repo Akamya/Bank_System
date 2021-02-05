@@ -1,0 +1,13 @@
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.AssemblyInfoInputs.cache
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.AssemblyInfo.cs
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.csproj.CoreCompileInputs.cache
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\bin\Debug\netcoreapp3.1\BANQUE.exe
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\bin\Debug\netcoreapp3.1\BANQUE.deps.json
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\bin\Debug\netcoreapp3.1\BANQUE.runtimeconfig.json
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\bin\Debug\netcoreapp3.1\BANQUE.runtimeconfig.dev.json
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\bin\Debug\netcoreapp3.1\BANQUE.dll
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\bin\Debug\netcoreapp3.1\BANQUE.pdb
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.csprojAssemblyReference.cache
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.dll
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.pdb
+C:\Users\Xiior\source\repos\BANQUE\BANQUE\obj\Debug\netcoreapp3.1\BANQUE.genruntimeconfig.cache
